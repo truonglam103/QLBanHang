@@ -1,0 +1,13 @@
+D:\PTTK_pj\DEMO\bin\Debug\DEMO.exe.config
+D:\PTTK_pj\DEMO\bin\Debug\DEMO.exe
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.fLogin.resources
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.exe
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.pdb
+D:\PTTK_pj\DEMO\bin\Debug\DEMO.pdb
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.fThanhToan.resources
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.fTraCuuHangHoa.resources
+D:\PTTK_pj\DEMO\obj\Debug\DEMO.fHoaDon.resources
